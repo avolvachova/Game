@@ -1,0 +1,26 @@
+.square{
+    width:100px;
+    height:100px;
+}
+
+.v{
+    border-left:1px solid red;
+    border-right:1px solid red;
+}
+
+.h{
+    border-top:1px solid red;
+    border-bottom:1px solid red;
+}
+
+#board {
+    display: inline-block;
+    margin-top:2%;
+    text-align:center;
+
+}
+
+table {
+    background-color: gray;
+    text-align:center;
+}
